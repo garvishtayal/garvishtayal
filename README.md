@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently Diving Deep in **FullStack Scalable Projects**
 
-- 👨‍💻 All of my projects are available at [garvishtayal.github.io/Portfolio/](garvishtayal.github.io/Portfolio/)
+<p>- 👨‍💻 All of my projects are available at [garvishtayal.github.io/Portfolio/]
+<a href="https://garvishtayal.github.io/Portfolio/" target="blank"></a></p>
 
 - 💬 Ask me about **React, NodeJS**
 
