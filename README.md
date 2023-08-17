@@ -9,8 +9,10 @@
 
 - 🌱 I’m currently Diving Deep in **FullStack Scalable Projects**
 
-<p>- 👨‍💻 All of my projects are available at [garvishtayal.github.io/Portfolio/]
-<a href="https://garvishtayal.github.io/Portfolio/" target="blank"></a></p>
+👨‍💻 All of my projects are available at <a href="https://garvishtayal.github.io/Portfolio" target="blank">[garvishtayal.github.io/Portfolio/] </a>
+<p align="left">
+<a href="https://linkedin.com/in/linkedin.com/in/abhishek-tayal-676a30217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/abhishek-tayal-676a30217" height="30" width="40" /></a>
+</p>
 
 - 💬 Ask me about **React, NodeJS**
 
