@@ -6,7 +6,7 @@
 src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
 
- 👨‍💻 All of my projects are available at: <a href="https://garvishtayal.github.io/Portfolio" target="blank">[garvishtayal.github.io/Portfolio/] </a>
+ 👨‍💻 All of my projects are available at: <a href="https://github.com/garvishtayal?tab=repositories" target="blank">[garvishtayal.github.io/Portfolio/] </a>
 <p align="left">
 
 - ⚡ Fun fact **I am the Only one Developer here, who is not a Geek**
