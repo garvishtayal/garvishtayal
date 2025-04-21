@@ -2,7 +2,7 @@
 <img src="https://media.graphassets.com/iOHVkwZJSROO9LafpHiX" align="center" style="width: 100%" />
 </div>
 
-### <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Abhishek, a full-stack freelancer 👨🏻‍💻 Software Engineer, 👨🏻‍🎨 Designer & ♟️ Sometime Blunders at Chess</div>
+### <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Abhishek, a full-stack freelancer 👨🏻‍💻 Software Engineer, 👨🏻‍🎨 Designer & ♟️ Some Chess</div>
 
 This is the place where I open source stuff and break things :rofl:
 
