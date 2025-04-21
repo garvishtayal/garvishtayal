@@ -16,7 +16,7 @@ This is the place where I open source stuff and break things :rofl:
 
 - 🌐 Open-sourced a lot of my personal projects ➡️ [Check Here](https://github.com/garvishtayal?tab=repositories)
 
-- ⭐ Creating a new course for intermediate-advanced web developers. Stay tuned!
+- ⭐ Creating a new portfolio website focusing on UI and animation. Stay tuned!
 
 - ❓ Ask me about anything about UI/UX and related web development technologies
 
