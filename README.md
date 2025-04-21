@@ -6,7 +6,7 @@
 
 This is the place where I open source stuff and break things :rofl:
 
-- 🔭 I’m a Junior Full-Stack Engineer
+- 🔭 I’m a Semi-Senior Full-Stack Engineer
 
 - 🌱 Currently learning about some advanced frontend/backend technologies as well as AI / Machine Learning / Web3
 
